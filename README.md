@@ -1,11 +1,11 @@
-# Hi, I'm [Nazwa](https://github.com/hildasyafira) 👋
+# Hi, I'm [Junervin](https://github.com/junervin12) 👋
 
 ### About Me
-I am an enthusiastic Data scientist, AI Engineer, and student. I specialize in **Machine Learning**, and **Artificial Intelligence**. 
+I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**. 
 
 ### Tech Stack
-<code><img height="40" alt="laravel" src="https://github.com/hildasyafira/PPE-Detection.git"></code>
-<code><img height="40" alt="python" src="https://github.com/hildasyafira/Face-Detection-Project.git"></code>
+<code><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" alt="r-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 <code><img height="40" alt="android-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"></code>
@@ -18,11 +18,11 @@ I am currently working on several exciting projects in the field of AI and data 
 
 
 ### Let's Connect!
-<a href="https://www.linkedin.com/in/nazwa-hildasyafira-a15169380/">
+<a href="https://www.linkedin.com/in/junervin">
   <img height="35" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>&nbsp
 
-<a href="https://github.com/hildasyafira">
+<a href="https://github.com/junervin12">
   <img height="35" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
 </a>
 
