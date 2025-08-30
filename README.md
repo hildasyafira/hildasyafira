@@ -18,11 +18,11 @@ I am currently working on several exciting projects in the field of AI and data 
 
 
 ### Let's Connect!
-<a href="https://www.linkedin.com/in/junervin">
+<a href="https://www.linkedin.com/in/nazwa-hildasyafira-a15169380/">
   <img height="35" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>&nbsp
 
-<a href="https://github.com/junervin12">
+<a href="https://github.com/hildasyafira">
   <img height="35" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
 </a>
 
