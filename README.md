@@ -5,7 +5,7 @@ I am an enthusiastic Data scientist, AI Engineer, and student. I specialize in *
 
 ### Tech Stack
 <code><img height="40" alt="laravel" src="https://github.com/hildasyafira/PPE-Detection.git"></code>
-<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" alt="python" src="https://github.com/hildasyafira/Face-Detection-Project.git"></code>
 <code><img height="40" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" alt="r-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 <code><img height="40" alt="android-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"></code>
