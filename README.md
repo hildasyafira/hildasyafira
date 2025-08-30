@@ -1,7 +1,7 @@
 # Hi, I'm [Nazwa](https://github.com/hildasyafira) 👋
 
 ### About Me
-I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, and **Artificial Intelligence**. 
+I am an enthusiastic Data scientist, AI Engineer, and student. I specialize in **Machine Learning**, and **Artificial Intelligence**. 
 
 ### Tech Stack
 <code><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
